@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AishwaryaShetty
-- 🌱 I’m currently learning React Native/React JS/Flutter
+- 🌱 I’m currently learning React Native/Flutter
 - 💞️ I’m looking to collaborate on anything interesting and challenging
 - 📫 How to reach me ?! https://www.linkedin.com/in/aishwaryapshetty
 
